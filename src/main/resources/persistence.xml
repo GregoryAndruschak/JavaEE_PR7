@@ -1,7 +1,0 @@
-<persistence xmlns="http://java.sun.com/xml/ns/persistence"
-             version="1.0">
-    <persistence-unit name="myUnit" transaction-type="RESOURCE_LOCAL">
-
-    </persistence-unit>
-    <shared-cache-mode>ENABLE_SELECTIVE</shared-cache-mode>
-</persistence>
